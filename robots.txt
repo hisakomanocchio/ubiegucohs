@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eezathigh.zenkimoto.com/sitemap.xml
